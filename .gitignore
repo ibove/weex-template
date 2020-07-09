@@ -1,0 +1,6 @@
+.temp
+/dist
+node_modules
+.idea
+/platforms/android/bundlejs
+/platforms/android/app/src/main/assets/dist
